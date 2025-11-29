@@ -101,3 +101,4 @@ You can modify these variables in the "basic setup" cell to see different outcom
 
 ## 📊 Expected Output
 When you run the final cell, a graph will appear showing the number of tumor cells on the Y-axis and time on the X-axis. You should see an **S-shaped curve** that rises and then flattens out around 750 cells.
+![](https://github.com/sameekshaluthra/tumor_growth_simulation/blob/main/tumor_growth.png?raw=true)
